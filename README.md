@@ -8,3 +8,4 @@ To Run:
 
 sage laplace_transform_visualization.sage
 
+To Run: 1) Install sage by running sh provision.sh 2) From the command line run: sage laplace_transform/.sage
